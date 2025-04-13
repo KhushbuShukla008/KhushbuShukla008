@@ -42,8 +42,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer**
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
       <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
-
-    </td>
+   </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>

@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer**
     <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -39,6 +40,9 @@ Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer**
     <td>
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
+
     </td>
   </tr>
   <tr>

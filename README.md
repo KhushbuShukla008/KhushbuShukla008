@@ -1,35 +1,46 @@
-# 👋 Hi there, I'm Khushbu Shukla!
+# 👋 Hi there, I'm Khushbu Shukla
 
-💻 I’m a Software Engineer passionate about building meaningful digital products.  
-🚀 Graduate of BrainStation's Software Engineering Bootcamp (2025).  
-🔧 Skilled in JavaScript, React, HTML, CSS, Node.js, MySQL, Git, and more.  
-🌱 Currently exploring backend development and cloud services.  
-💬 Ask me about web development, frontend design, or anything tech-related!  
-🎯 Fun fact: I love making interactive tools that combine education and gamification.
+Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer** with a strong foundation in full-stack web development and a growing interest in QA testing and AI integration. I’ve recently completed the **BrainStation Software Engineering Bootcamp**, where I built some exciting collaborative and solo projects.  
 
 ---
 
-## 💼 Projects
+## 🔧 Projects I’ve Worked On
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Skillfolio](https://github.com/KhushbuShukla008/capstone-skillfolio-api) | A GitHub-based portfolio generator built for developers | React, Node.js, Sass |
-| [AI Awareness Quiz](https://github.com/KhushbuShukla008/ai-awareness-quiz) | An interactive quiz game that educates users on AI in everyday life | React, Express.js |
+### 💼 Capstone Project – [SkillFolio](https://github.com/KhushbuShukla008/capstone-skillfolio)
+An interactive platform that generates user portfolios from their GitHub data.
+
+- React | Node.js | Express | Sass | REST APIs
+- Designed to automate portfolio creation for developers using GitHub stats.
+
+### 🎮 Industry Hackathon – [AI Awareness Quiz](https://github.com/Magret1730/omnicoders-ip-client)
+Gamified educational tool to raise awareness on AI applications in daily life.
+
+- Worked as a Frontend Developer using React, Sass, and Figma.
+- Explained AI usage through interactive true/false questions and real-world examples.
+
+### 🛒 Group Project – [InStock](https://github.com/KhushbuShukla008/group-instock)
+Warehouse inventory management system developed with a team of 6.
+
+- Backend: [group-instock-api](https://github.com/KhushbuShukla008/group-instock-api)
+- Frontend: [group-instock](https://github.com/KhushbuShukla008/group-instock)
+
+### 📸 Individual Project – [BandSite](https://github.com/KhushbuShukla008/khushbu-shukla-bandsite)
+Created a responsive music band website from scratch using vanilla JavaScript and SCSS.
 
 ---
 
-## 🔧 Tech Stack
+## 🌱 Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,mongodb,git,github,figma)
+- QA Automation with Selenium and Jest
+- Advanced JavaScript and React testing
+- Backend systems and deployment
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Khushbu Shukla](https://www.linkedin.com/in/khushbushukla)
-- GitHub: [@KhushbuShukla008](https://github.com/KhushbuShukla008)
+Let’s collaborate!  
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/khushbu-shukla/) or explore my repositories to learn more about my work.
 
 ---
-
-*“Keep building. Keep learning. Keep growing.”*
 

@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer**
 
 ---
 
+
 ## 🔧 Projects I’ve Worked On
 
 ### 💼 Capstone Project – [SkillFolio](https://github.com/KhushbuShukla008/capstone-skillfolio)
@@ -24,8 +25,16 @@ Warehouse inventory management system developed with a team of 6.
 - Backend: [group-instock-api](https://github.com/KhushbuShukla008/group-instock-api)
 - Frontend: [group-instock](https://github.com/KhushbuShukla008/group-instock)
 
-### 📸 Individual Project – [BandSite](https://github.com/KhushbuShukla008/khushbu-shukla-bandsite)
-Created a responsive music band website from scratch using vanilla JavaScript and SCSS.
+- **📸 Khushbu Shukla Snaps**  
+  A photo showcase application where users can view and interact with a curated collection of 24 backend-stored photos. Users can read descriptions, view likes, and browse through comments for each image. Built with full frontend-backend integration.  
+  🔗 [Frontend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps.git) | 🔗 [Backend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps-api.git)
+
+
+### 🎤 BandSite – [BandSite](https://github.com/KhushbuShukla008/khushbu-shukla-bandsite)
+Created a responsive music band website from scratch using JavaScript and SCSS.
+
+- Includes band info, media player, and interactive comment section.
+
 
 ---
 
@@ -37,10 +46,11 @@ Created a responsive music band website from scratch using vanilla JavaScript an
 
 ---
 
-## 📫 Connect With Me
+## 📬 Contact
 
-Let’s collaborate!  
-Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/khushbu-shukla/) or explore my repositories to learn more about my work.
+- 📧 Email: [khushbu.shukla008@gmail.com](mailto:khushbu.shukla008@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/khushbushukla](https://www.linkedin.com/in/khushbushukla)  
+- 🖥️ GitHub: [github.com/KhushbuShukla008](https://github.com/KhushbuShukla008)
 
 ---
 

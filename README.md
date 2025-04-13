@@ -25,7 +25,7 @@ Warehouse inventory management system developed with a team of 6.
 - Backend: [group-instock-api](https://github.com/KhushbuShukla008/group-instock-api)
 - Frontend: [group-instock](https://github.com/KhushbuShukla008/group-instock)
 
-- **📸 Khushbu Shukla Snaps**  
+### 📸 Khushbu Shukla Snaps**  
   A photo showcase application where users can view and interact with a curated collection of 24 backend-stored photos. Users can read descriptions, view likes, and browse through comments for each image. Built with full frontend-backend integration.  
   🔗 [Frontend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps.git) | 🔗 [Backend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps-api.git)
 

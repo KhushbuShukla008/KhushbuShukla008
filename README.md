@@ -51,8 +51,8 @@ A responsive website for a fictional band featuring media, concert dates, and an
 
 ## 📬 Contact
 
-- 📧 Email: [khushbu.shukla008@gmail.com](mailto:khushbu.shukla008@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/khushbushukla](https://www.linkedin.com/in/khushbushukla)  
-- 🖥️ GitHub: [github.com/KhushbuShukla008](https://github.com/KhushbuShukla008)
+- 📧 Email: [Contact via Email](mailto:khushbu.shukla008@gmail.com)  
+- 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/khushbushukla)  
+- 🖥️ GitHub: [KhushbuShukla008](https://github.com/KhushbuShukla008)
 
 ---

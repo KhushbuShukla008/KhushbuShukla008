@@ -2,7 +2,7 @@
 
 💻 I’m a Software Engineer passionate about building meaningful digital products.  
 🚀 Graduate of BrainStation's Software Engineering Bootcamp (2025).  
-🔧 Skilled in JavaScript, React, HTML, CSS, Node.js, MongoDB, Git, and more.  
+🔧 Skilled in JavaScript, React, HTML, CSS, Node.js, MySQL, Git, and more.  
 🌱 Currently exploring backend development and cloud services.  
 💬 Ask me about web development, frontend design, or anything tech-related!  
 🎯 Fun fact: I love making interactive tools that combine education and gamification.
@@ -26,7 +26,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Khushbu Shukla](https://www.linkedin.com/in/khushbu-shukla-54610877/)
+- LinkedIn: [Khushbu Shukla](https://www.linkedin.com/in/khushbushukla)
 - GitHub: [@KhushbuShukla008](https://github.com/KhushbuShukla008)
 
 ---

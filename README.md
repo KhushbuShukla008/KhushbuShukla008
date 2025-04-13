@@ -1,48 +1,51 @@
 # 👋 Hi there, I'm Khushbu Shukla
 
-Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer** with a strong foundation in full-stack web development and a growing interest in QA testing and AI integration. I’ve recently completed the **BrainStation Software Engineering Bootcamp**, where I built some exciting collaborative and solo projects.  
+Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer** with a strong foundation in full-stack web development, and a growing interest in **QA testing** and **AI integration**. I recently completed the **BrainStation Software Engineering Bootcamp**, where I built several collaborative and individual projects from the ground up.
 
 ---
 
-
 ## 🔧 Projects I’ve Worked On
 
-### 💼 Capstone Project – [SkillFolio](https://github.com/KhushbuShukla008/capstone-skillfolio)
-An interactive platform that generates user portfolios from their GitHub data.
+### 💼 [SkillFolio (Capstone Project)](https://github.com/KhushbuShukla008/capstone-skillfolio)  
+An interactive portfolio generator that pulls real-time GitHub data to create developer portfolios.  
+**Tech Stack:** React, Node.js, Express, Sass, REST APIs  
+🔗 [Frontend Repo](https://github.com/KhushbuShukla008/capstone-skillfolio) | 🔗 [Backend Repo](https://github.com/KhushbuShukla008/capstone-skillfolio-api)
 
-- React | Node.js | Express | Sass | REST APIs
-- Designed to automate portfolio creation for developers using GitHub stats.
+---
 
-### 🎮 Industry Hackathon – [AI Awareness Quiz](https://github.com/Magret1730/omnicoders-ip-client)
-Gamified educational tool to raise awareness on AI applications in daily life.
+### 🎮 [AI Awareness Quiz (Industry Hackathon)](https://github.com/Magret1730/omnicoders-ip-client)  
+A gamified quiz app to educate users on how AI is embedded in everyday life through interactive true/false questions.  
+**Role:** Frontend Developer | **Tech Stack:** React, Sass, Figma  
+🔗 [Frontend Repo](https://github.com/Magret1730/omnicoders-ip-client) | 🔗 [Backend Repo](https://github.com/AnushaDunaboyina/omnicoders-ip-api)
 
-- Worked as a Frontend Developer using React, Sass, and Figma.
-- Explained AI usage through interactive true/false questions and real-world examples.
+---
 
-### 🛒 Group Project – [InStock](https://github.com/KhushbuShukla008/group-instock)
-Warehouse inventory management system developed with a team of 6.
+### 🛒 [InStock (Group Project)](https://github.com/KhushbuShukla008/group-instock)  
+A warehouse inventory management system to manage stock across multiple locations, developed collaboratively.  
+**Tech Stack:** React, Node.js, Express, Sass  
+🔗 [Frontend Repo](https://github.com/KhushbuShukla008/group-instock) | 🔗 [Backend Repo](https://github.com/KhushbuShukla008/group-instock-api)
 
-- Backend: [group-instock-api](https://github.com/KhushbuShukla008/group-instock-api)
-- Frontend: [group-instock](https://github.com/KhushbuShukla008/group-instock)
+---
 
-### 📸 Khushbu Shukla Snaps**  
-  A photo showcase application where users can view and interact with a curated collection of 24 backend-stored photos. Users can read descriptions, view likes, and browse through comments for each image. Built with full frontend-backend integration.  
-  🔗 [Frontend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps.git) | 🔗 [Backend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps-api.git)
+### 📸 [Snaps App](https://github.com/KhushbuShukla008/khushbu-shukla-snaps)  
+A photo showcase platform where users can view 24 curated photos with captions, likes, and comments stored in the backend.  
+**Tech Stack:** React, Node.js, Sass, REST API  
+🔗 [Frontend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps) | 🔗 [Backend Repo](https://github.com/KhushbuShukla008/khushbu-shukla-snaps-api)
 
+---
 
-### 🎤 BandSite – [BandSite](https://github.com/KhushbuShukla008/khushbu-shukla-bandsite)
-Created a responsive music band website from scratch using JavaScript and SCSS.
-
-- Includes band info, media player, and interactive comment section.
-
+### 🎤 [BandSite](https://github.com/KhushbuShukla008/khushbu-shukla-bandsite)  
+A responsive website for a fictional band featuring media, concert dates, and an interactive comment section.  
+**Tech Stack:** HTML, SCSS, Vanilla JavaScript  
+🔗 [Repo](https://github.com/KhushbuShukla008/khushbu-shukla-bandsite)
 
 ---
 
 ## 🌱 Currently Learning
 
-- QA Automation with Selenium and Jest
-- Advanced JavaScript and React testing
-- Backend systems and deployment
+- QA Automation with Selenium and Jest  
+- Advanced JavaScript and React Testing  
+- Backend Systems and Deployment  
 
 ---
 
@@ -53,4 +56,3 @@ Created a responsive music band website from scratch using JavaScript and SCSS.
 - 🖥️ GitHub: [github.com/KhushbuShukla008](https://github.com/KhushbuShukla008)
 
 ---
-

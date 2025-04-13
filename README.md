@@ -38,8 +38,6 @@ Welcome to my GitHub profile! I'm a passionate and curious **Software Engineer**
     <td><strong>Testing</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
-      <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
